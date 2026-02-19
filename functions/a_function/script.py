@@ -12,3 +12,14 @@ add(35,10)
 print("this is a string".upper())
 
 
+def whistle():
+    print("doot")
+
+print("first")
+print("second")
+greet()
+print("third")
+print("fourth")
+whistle()
+
+
