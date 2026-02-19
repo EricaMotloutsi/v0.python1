@@ -11,5 +11,3 @@ around = bottles_of_beer - 1
 print(around)
 print(bottles_of_beer)
 
-python one.py
-
