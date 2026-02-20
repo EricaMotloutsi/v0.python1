@@ -16,3 +16,5 @@ def starts_with_r(string):
 
 print(starts_with_r("roger that")) 
 
+x=2
+print(x)
