@@ -1,4 +1,3 @@
-
 def element_quantities(dictionary):
     ans_list = []
     for key, value in dictionary.items():
