@@ -21,7 +21,9 @@ def most_letter_word(sentence, char):
     for k, v in dictionary.items():
         if v >= val:
             val = v
-            key = k 
+            key = k
+        elif v == val:
+            continue
     return key 
 
 
