@@ -6,7 +6,7 @@ def most_common_letter(str):
             dictionary[ch] +=1
         else:
             dictionary[ch] =1
-            print(dictionary)
+    return max_object_value(dictionary)          
 
 print(most_common_letter("building"))
 # 'i'
